@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/pegex-drinkup-pm/issues
   homepage: https://github.com/ingydotnet/pegex-drinkup-pm
   repository: https://github.com/ingydotnet/pegex-drinkup-pm.git
-version: 0.0.1
+version: 0.0.2
